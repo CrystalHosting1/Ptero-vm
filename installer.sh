@@ -21,13 +21,12 @@ lightgreen=$(echo -en "\e[92m")
 echo "
 ${bold}${lightgreen}========================================================================
                                                                                                   
-${bold}${lightblue}██╗░░░██╗██████╗░░██████╗
-${bold}${lightblue}██║░░░██║██╔══██╗██╔════╝    
-${bold}${lightblue}╚██╗░██╔╝██████╔╝╚█████╗░    
-${bold}${lightblue}░╚████╔╝░██╔═══╝░░╚═══██╗     
-${bold}${lightblue}░░╚██╔╝░░██║░░░░░██████╔╝      
-${bold}${lightblue}░░░╚═╝░░░╚═╝░░░░░╚═════╝░        
-                                                                                                  
+${bold}${lightblue}██╗░░░██╗    ██████╗░    ░██████╗
+${bold}${lightblue}██║░░░██║    ██╔══██╗    ██╔════╝    
+${bold}${lightblue}╚██╗░██╔╝    ██████╔╝    ╚█████╗░   
+${bold}${lightblue}░╚████╔╝░    ██╔═══╝░    ░╚═══██╗     
+${bold}${lightblue}░░╚██╔╝░░    ██║░░░░░    ██████╔╝     
+${bold}${lightblue}░░░╚═╝░░░    ╚═╝░░░░░    ╚═════╝░                                                                                                  
 
 ${bold}${lightgreen}MADE BY NAIMUR_GAMER
 
@@ -94,13 +93,13 @@ else
     echo "
 ${bold}${lightgreen}========================================================================
                                                                                                   
-${bold}${lightblue}██╗░░░██╗██████╗░░██████╗
-${bold}${lightblue}██║░░░██║██╔══██╗██╔════╝    
-${bold}${lightblue}╚██╗░██╔╝██████╔╝╚█████╗░    
-${bold}${lightblue}░╚████╔╝░██╔═══╝░░╚═══██╗     
-${bold}${lightblue}░░╚██╔╝░░██║░░░░░██████╔╝      
-${bold}${lightblue}░░░╚═╝░░░╚═╝░░░░░╚═════╝░        
-                                                                                                  
+${bold}${lightblue}██╗░░░██╗    ██████╗░    ░██████╗
+${bold}${lightblue}██║░░░██║    ██╔══██╗    ██╔════╝    
+${bold}${lightblue}╚██╗░██╔╝    ██████╔╝    ╚█████╗░   
+${bold}${lightblue}░╚████╔╝░    ██╔═══╝░    ░╚═══██╗     
+${bold}${lightblue}░░╚██╔╝░░    ██║░░░░░    ██████╔╝     
+${bold}${lightblue}░░░╚═╝░░░    ╚═╝░░░░░    ╚═════╝░                                                                                                  
+                                                                                                 
 
 ${bold}${lightgreen}MADE BY NAIMUR_GAMER
 
