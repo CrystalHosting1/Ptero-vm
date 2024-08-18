@@ -1,3 +1,22 @@
+https://chromewebstore.google.com/detail/auto-refresh-plus-page-mo/hgeljhfekpckiiplhkigfehkdpldcggm?hl=en
+
+https://chromewebstore.google.com/detail/keyword-surfer/bafijghppfhdpldihckdcadbcobikaca
+
+AnyDesk
+Bonjour
+BijoyBayanno
+
+
+
+
+██╗░░░██╗██████╗░░██████╗
+██║░░░██║██╔══██╗██╔════╝
+╚██╗░██╔╝██████╔╝╚█████╗░
+░╚████╔╝░██╔═══╝░░╚═══██╗
+░░╚██╔╝░░██║░░░░░██████╔╝
+░░░╚═╝░░░╚═╝░░░░░╚═════╝░
+
+
 #!/bin/bash
 HOME="/home/container"
 HOMEA="$HOME/linux/.apt"
@@ -21,16 +40,12 @@ lightgreen=$(echo -en "\e[92m")
 echo "
 ${bold}${lightgreen}========================================================================
                                                                                                   
-${bold}${lightblue}@@@@@@@   @@@@@@@  @@@@@@@@  @@@@@@@    @@@@@@      @@@  @@@  @@@@@@@@@@
-${bold}${lightblue}@@@@@@@@  @@@@@@@  @@@@@@@@  @@@@@@@@  @@@@@@@@     @@@  @@@  @@@@@@@@@@@    
-${bold}${lightblue}@@!  @@@    @@!    @@!       @@!  @@@  @@!  @@@     @@!  @@@  @@! @@! @@!    
-${bold}${lightblue}!@!  @!@    !@!    !@!       !@!  @!@  !@!  @!@     !@!  @!@  !@! !@! !@!     
-${bold}${lightblue}@!@@!@!     @!!    @!!!:!    @!@!!@!   @!@  !@!     @!@  !@!  @!! !!@ @!@      
-${bold}${lightblue}!!@!!!      !!!    !!!!!:    !!@!@!    !@!  !!!     !@!  !!!  !@!   ! !@!        
-${bold}${lightblue}!!:         !!:    !!:       !!: :!!   !!:  !!!     :!:  !!:  !!:     !!:        
-${bold}${lightblue}:!:         :!:    :!:       :!:  !:!  :!:  !:!      ::!!:!   :!:     :!:            
-${bold}${lightblue} ::          ::     :: ::::  ::   :::  ::::: ::       ::::    :::     ::        
-${bold}${lightblue} :           :     : :: ::    :   : :   : :  :         :       :      :          
+${bold}${lightblue}██╗░░░██╗██████╗░░██████╗
+${bold}${lightblue}██║░░░██║██╔══██╗██╔════╝    
+${bold}${lightblue}╚██╗░██╔╝██████╔╝╚█████╗░    
+${bold}${lightblue}░╚████╔╝░██╔═══╝░░╚═══██╗     
+${bold}${lightblue}░░╚██╔╝░░██║░░░░░██████╔╝      
+${bold}${lightblue}░░░╚═╝░░░╚═╝░░░░░╚═════╝░        
                                                                                                   
 
 ${bold}${lightgreen}MADE BY NAIMUR_GAMER
@@ -98,16 +113,12 @@ else
     echo "
 ${bold}${lightgreen}========================================================================
                                                                                                   
-${bold}${lightblue}@@@@@@@   @@@@@@@  @@@@@@@@  @@@@@@@    @@@@@@      @@@  @@@  @@@@@@@@@@
-${bold}${lightblue}@@@@@@@@  @@@@@@@  @@@@@@@@  @@@@@@@@  @@@@@@@@     @@@  @@@  @@@@@@@@@@@    
-${bold}${lightblue}@@!  @@@    @@!    @@!       @@!  @@@  @@!  @@@     @@!  @@@  @@! @@! @@!    
-${bold}${lightblue}!@!  @!@    !@!    !@!       !@!  @!@  !@!  @!@     !@!  @!@  !@! !@! !@!     
-${bold}${lightblue}@!@@!@!     @!!    @!!!:!    @!@!!@!   @!@  !@!     @!@  !@!  @!! !!@ @!@      
-${bold}${lightblue}!!@!!!      !!!    !!!!!:    !!@!@!    !@!  !!!     !@!  !!!  !@!   ! !@!        
-${bold}${lightblue}!!:         !!:    !!:       !!: :!!   !!:  !!!     :!:  !!:  !!:     !!:        
-${bold}${lightblue}:!:         :!:    :!:       :!:  !:!  :!:  !:!      ::!!:!   :!:     :!:            
-${bold}${lightblue} ::          ::     :: ::::  ::   :::  ::::: ::       ::::    :::     ::        
-${bold}${lightblue} :           :     : :: ::    :   : :   : :  :         :       :      :          
+${bold}${lightblue}██╗░░░██╗██████╗░░██████╗
+${bold}${lightblue}██║░░░██║██╔══██╗██╔════╝    
+${bold}${lightblue}╚██╗░██╔╝██████╔╝╚█████╗░    
+${bold}${lightblue}░╚████╔╝░██╔═══╝░░╚═══██╗     
+${bold}${lightblue}░░╚██╔╝░░██║░░░░░██████╔╝      
+${bold}${lightblue}░░░╚═╝░░░╚═╝░░░░░╚═════╝░        
                                                                                                   
 
 ${bold}${lightgreen}MADE BY NAIMUR_GAMER
